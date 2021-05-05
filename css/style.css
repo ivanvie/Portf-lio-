@@ -1,0 +1,16 @@
+.logo img{
+    width: 200px;
+}
+.col img{
+    width: 200px;
+}
+.container{
+    display: flex;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col{
+    flex-basis: 33.33333%;
+}
