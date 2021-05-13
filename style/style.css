@@ -1,0 +1,21 @@
+.logo{
+  width: 80px;  
+}
+.navbar{
+    background-color: rgba(15, 14, 14, 0.95);
+}
+.flex-container{
+  display: flex;
+  max-width: 1300px;
+  margin: auto;
+}
+.row{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.col{
+  flex-basis: 15%;
+  margin: 10px;
+}
